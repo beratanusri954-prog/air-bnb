@@ -1,0 +1,201 @@
+listing_id,host_name,neighbourhood,room_type,price,minimum_nights,number_of_reviews,reviews_per_month,availability_365,city,rating
+1001,Rahul,Koregaon Park,Shared room,3585,4,37,4.0,119,Pune,4.3
+1002,Aman,Whitefield,Shared room,2160,5,81,2.9,346,Bangalore,4.0
+1003,Meera,Nungambakkam,Shared room,7484,1,157,4.0,182,Chennai,3.8
+1004,Sophia,Hinjewadi,Shared room,3417,5,184,1.5,188,Pune,4.7
+1005,Kiran,Kalyani Nagar,Shared room,2151,2,79,3.9,345,Pune,4.9
+1006,Divya,Dwarka,Shared room,7492,2,127,1.9,45,Delhi,3.8
+1007,Rahul,Baner,Entire home/apt,5851,3,130,2.6,293,Pune,4.4
+1008,Sophia,Anna Nagar,Private room,911,3,111,2.1,304,Chennai,4.8
+1009,Ravi,Secunderabad,Private room,4206,4,163,0.9,240,Hyderabad,4.7
+1010,Divya,HSR Layout,Private room,4880,1,157,4.4,214,Bangalore,4.0
+1011,Sophia,Saket,Private room,6708,5,168,1.6,283,Delhi,4.1
+1012,Sanya,Saket,Shared room,7152,3,60,3.1,133,Delhi,4.9
+1013,Meera,Banjara Hills,Private room,7034,4,53,3.7,30,Hyderabad,4.2
+1014,Neha,Secunderabad,Entire home/apt,7052,5,52,2.6,155,Hyderabad,3.6
+1015,John,MG Road,Entire home/apt,1859,2,77,0.8,183,Bangalore,3.7
+1016,Kiran,Koregaon Park,Shared room,7069,4,96,4.5,273,Pune,4.7
+1017,Aman,Andheri,Private room,5262,5,168,1.7,318,Mumbai,3.7
+1018,Sanya,Koramangala,Private room,6602,3,75,4.4,117,Bangalore,4.2
+1019,Sanya,MG Road,Private room,2094,3,79,2.7,185,Bangalore,4.7
+1020,Aman,T Nagar,Entire home/apt,7617,3,138,0.9,323,Chennai,4.6
+1021,Priya,Banjara Hills,Private room,6418,1,88,3.6,319,Hyderabad,3.6
+1022,Priya,Gachibowli,Entire home/apt,2401,2,118,4.8,123,Hyderabad,4.7
+1023,Alice,T Nagar,Shared room,5405,1,139,4.1,56,Chennai,4.6
+1024,Kiran,Saket,Private room,1793,2,114,2.6,60,Delhi,3.8
+1025,Priya,Juhu,Entire home/apt,3742,5,88,1.8,166,Mumbai,4.1
+1026,Sophia,Hinjewadi,Entire home/apt,6351,2,125,0.6,317,Pune,4.3
+1027,Arjun,Velachery,Entire home/apt,8567,3,158,2.0,306,Chennai,4.8
+1028,Sophia,Indiranagar,Private room,2707,1,131,4.2,201,Bangalore,4.2
+1029,John,MG Road,Shared room,7236,3,67,3.2,283,Bangalore,4.0
+1030,Sanya,Baner,Entire home/apt,2504,1,159,2.5,46,Pune,3.9
+1031,Neha,Adyar,Entire home/apt,8757,3,23,4.4,231,Chennai,4.2
+1032,Aman,MG Road,Entire home/apt,8124,4,10,1.8,329,Bangalore,3.7
+1033,Alice,Baner,Shared room,7900,2,120,2.2,107,Pune,4.2
+1034,John,Gachibowli,Private room,2750,1,32,2.1,353,Hyderabad,4.4
+1035,Ravi,Bandra,Shared room,1621,3,15,0.8,53,Mumbai,4.8
+1036,Priya,Madhapur,Entire home/apt,1543,2,21,3.0,275,Hyderabad,3.5
+1037,Neha,Andheri,Shared room,8555,1,56,1.2,158,Mumbai,4.8
+1038,Sanya,Hinjewadi,Entire home/apt,8939,4,95,1.3,316,Pune,4.4
+1039,Neha,Hinjewadi,Entire home/apt,4279,3,198,1.3,354,Pune,4.6
+1040,Sophia,Gachibowli,Private room,7961,5,20,1.2,93,Hyderabad,4.3
+1041,Rahul,Baner,Shared room,3669,4,72,4.6,267,Pune,3.8
+1042,Kiran,Karol Bagh,Private room,8327,3,141,1.9,106,Delhi,3.9
+1043,Sophia,Jubilee Hills,Private room,4198,4,89,1.9,288,Hyderabad,4.9
+1044,John,Indiranagar,Private room,2172,4,103,2.3,62,Bangalore,3.7
+1045,Neha,Baner,Shared room,8804,4,7,2.7,315,Pune,3.7
+1046,Arjun,HSR Layout,Entire home/apt,2550,2,160,3.9,166,Bangalore,4.1
+1047,Priya,Indiranagar,Private room,1840,3,60,4.4,31,Bangalore,3.9
+1048,John,Viman Nagar,Entire home/apt,6902,1,24,1.4,310,Pune,4.8
+1049,Aman,Secunderabad,Entire home/apt,1181,4,37,4.2,285,Hyderabad,4.6
+1050,Sanya,Bandra,Private room,2194,5,170,1.1,318,Mumbai,5.0
+1051,Priya,Jubilee Hills,Entire home/apt,998,3,119,3.0,201,Hyderabad,4.6
+1052,Sophia,Kalyani Nagar,Private room,1158,4,187,1.6,166,Pune,3.5
+1053,Divya,Hinjewadi,Shared room,7797,5,76,3.0,268,Pune,4.5
+1054,Sanya,MG Road,Private room,6423,1,60,1.6,241,Bangalore,4.0
+1055,David,Karol Bagh,Private room,5397,5,73,0.7,361,Delhi,4.9
+1056,Sanya,Dwarka,Shared room,4501,2,78,2.6,274,Delhi,4.7
+1057,Aman,HSR Layout,Private room,4050,2,11,4.1,288,Bangalore,4.6
+1058,Priya,Karol Bagh,Entire home/apt,4206,2,159,4.9,143,Delhi,3.8
+1059,Ravi,Powai,Private room,1603,5,128,3.8,103,Mumbai,3.9
+1060,David,T Nagar,Private room,5765,2,79,3.5,97,Chennai,5.0
+1061,Rahul,Juhu,Private room,5640,4,108,0.6,279,Mumbai,4.0
+1062,Priya,Secunderabad,Private room,1964,1,147,4.8,301,Hyderabad,4.5
+1063,David,Secunderabad,Shared room,2762,3,30,4.6,234,Hyderabad,4.0
+1064,Rahul,T Nagar,Private room,5059,5,9,2.8,326,Chennai,4.6
+1065,Kiran,Dwarka,Shared room,4722,3,111,4.3,209,Delhi,3.9
+1066,Priya,Jubilee Hills,Entire home/apt,4627,2,151,0.7,285,Hyderabad,3.9
+1067,Ravi,T Nagar,Private room,7059,2,78,3.0,90,Chennai,4.5
+1068,Rahul,Juhu,Shared room,8203,2,77,3.0,220,Mumbai,3.9
+1069,Arjun,Powai,Private room,3080,4,45,4.6,124,Mumbai,4.8
+1070,Arjun,Anna Nagar,Private room,5288,5,82,2.5,235,Chennai,3.5
+1071,Kiran,Koramangala,Shared room,2666,3,192,1.7,109,Bangalore,3.6
+1072,Sanya,Gachibowli,Shared room,1824,5,135,0.8,263,Hyderabad,4.5
+1073,Rahul,Madhapur,Entire home/apt,4492,5,173,2.5,123,Hyderabad,3.7
+1074,Sophia,Baner,Private room,7709,5,104,3.3,108,Pune,4.2
+1075,David,Indiranagar,Entire home/apt,7340,3,22,4.7,197,Bangalore,4.6
+1076,David,Saket,Entire home/apt,6359,4,34,4.2,269,Delhi,4.2
+1077,Aman,Baner,Shared room,5043,5,35,0.7,245,Pune,4.5
+1078,David,Adyar,Private room,4694,3,39,3.2,238,Chennai,4.4
+1079,Neha,Nungambakkam,Shared room,8932,4,199,4.8,164,Chennai,4.9
+1080,Divya,Saket,Private room,5852,5,126,1.4,315,Delhi,4.7
+1081,Ravi,Colaba,Shared room,7725,2,38,1.0,314,Mumbai,4.7
+1082,Ravi,Colaba,Shared room,1421,3,63,4.7,91,Mumbai,4.1
+1083,Sanya,HSR Layout,Entire home/apt,8842,4,132,5.0,184,Bangalore,4.5
+1084,Meera,T Nagar,Private room,3198,3,65,4.2,280,Chennai,4.6
+1085,Rahul,Secunderabad,Private room,5447,5,121,1.0,178,Hyderabad,3.8
+1086,Kiran,Dwarka,Private room,8398,4,151,1.0,91,Delhi,3.7
+1087,Aman,Banjara Hills,Private room,1437,4,175,2.9,51,Hyderabad,4.5
+1088,Alice,Viman Nagar,Private room,6026,3,8,2.8,333,Pune,4.5
+1089,Arjun,Adyar,Private room,3289,5,20,1.6,127,Chennai,3.7
+1090,John,Velachery,Shared room,3418,3,181,3.6,222,Chennai,4.8
+1091,Rahul,Baner,Private room,1372,5,31,2.3,114,Pune,4.6
+1092,Rahul,Bandra,Entire home/apt,4001,3,154,2.8,100,Mumbai,4.8
+1093,Meera,Dwarka,Shared room,4449,1,33,1.3,214,Delhi,4.6
+1094,Meera,Hinjewadi,Entire home/apt,8501,5,140,1.6,314,Pune,3.8
+1095,Arjun,Secunderabad,Entire home/apt,6332,4,81,3.1,356,Hyderabad,4.1
+1096,Sophia,Powai,Private room,1181,5,68,3.0,164,Mumbai,4.8
+1097,Neha,Andheri,Shared room,1169,5,13,1.9,339,Mumbai,4.2
+1098,Neha,Secunderabad,Shared room,1858,5,150,3.3,111,Hyderabad,4.4
+1099,Kiran,Bandra,Entire home/apt,5730,5,89,1.5,225,Mumbai,4.3
+1100,Aman,Banjara Hills,Entire home/apt,8552,2,121,4.5,289,Hyderabad,4.8
+1101,Meera,Anna Nagar,Shared room,1636,5,61,0.8,138,Chennai,4.9
+1102,John,Lajpat Nagar,Private room,6109,5,72,1.9,179,Delhi,4.7
+1103,Sanya,Velachery,Private room,2282,2,191,3.7,36,Chennai,4.4
+1104,Sanya,Lajpat Nagar,Private room,7817,3,100,0.8,128,Delhi,3.9
+1105,Kiran,Lajpat Nagar,Private room,3504,4,148,4.6,41,Delhi,4.6
+1106,Divya,Viman Nagar,Shared room,4911,4,55,1.4,310,Pune,3.5
+1107,Neha,Banjara Hills,Private room,4948,5,16,2.2,355,Hyderabad,3.8
+1108,Neha,Baner,Private room,1862,3,158,4.1,335,Pune,3.7
+1109,Aman,Colaba,Entire home/apt,2681,2,16,4.3,296,Mumbai,4.8
+1110,David,Anna Nagar,Entire home/apt,5942,1,134,1.3,331,Chennai,3.6
+1111,Kiran,Madhapur,Shared room,7141,3,144,1.8,219,Hyderabad,4.2
+1112,Ravi,Baner,Private room,1339,2,95,4.3,328,Pune,4.6
+1113,Kiran,T Nagar,Shared room,2194,2,174,4.2,314,Chennai,5.0
+1114,Neha,Dwarka,Private room,1359,2,91,3.3,267,Delhi,4.4
+1115,Priya,Karol Bagh,Entire home/apt,7946,3,5,4.1,36,Delhi,4.0
+1116,Kiran,Bandra,Shared room,6374,4,192,2.3,364,Mumbai,4.1
+1117,Meera,Anna Nagar,Entire home/apt,5607,3,141,0.8,124,Chennai,4.2
+1118,Rahul,Madhapur,Shared room,3160,4,171,3.7,89,Hyderabad,4.4
+1119,Kiran,HSR Layout,Shared room,2387,3,60,1.2,92,Bangalore,4.4
+1120,John,Karol Bagh,Private room,5069,2,127,2.3,173,Delhi,4.6
+1121,Kiran,Whitefield,Entire home/apt,3507,2,167,3.1,354,Bangalore,3.8
+1122,Sanya,Whitefield,Private room,4440,2,151,2.6,44,Bangalore,4.3
+1123,Kiran,T Nagar,Private room,2606,5,11,3.9,79,Chennai,5.0
+1124,Neha,Powai,Shared room,909,3,27,4.0,209,Mumbai,4.0
+1125,Sanya,Powai,Private room,2334,2,126,0.6,234,Mumbai,4.3
+1126,John,Secunderabad,Entire home/apt,5160,2,95,1.7,292,Hyderabad,4.0
+1127,Neha,Dwarka,Private room,7166,1,57,0.5,328,Delhi,4.7
+1128,Arjun,Saket,Shared room,3781,1,16,2.9,142,Delhi,5.0
+1129,Priya,Indiranagar,Private room,6696,1,98,2.6,88,Bangalore,4.1
+1130,Sophia,Nungambakkam,Private room,8912,5,56,4.2,130,Chennai,3.5
+1131,Sophia,Koramangala,Private room,2425,2,6,1.6,195,Bangalore,4.3
+1132,Priya,Koramangala,Shared room,8119,5,119,1.4,142,Bangalore,4.1
+1133,Neha,Banjara Hills,Entire home/apt,2003,3,102,2.1,45,Hyderabad,4.6
+1134,Rahul,Dwarka,Entire home/apt,2532,3,31,3.8,358,Delhi,4.5
+1135,Sanya,Anna Nagar,Private room,5795,1,69,2.4,201,Chennai,4.3
+1136,Meera,Colaba,Entire home/apt,8016,5,141,4.4,212,Mumbai,4.8
+1137,David,Hinjewadi,Entire home/apt,3676,4,108,4.7,67,Pune,4.8
+1138,Alice,Colaba,Shared room,6967,1,7,4.2,135,Mumbai,4.5
+1139,Aman,Lajpat Nagar,Entire home/apt,5516,3,155,2.2,248,Delhi,4.1
+1140,Rahul,Koramangala,Private room,5027,1,100,1.4,143,Bangalore,4.6
+1141,Neha,Juhu,Private room,3657,2,186,2.1,348,Mumbai,4.2
+1142,Arjun,Gachibowli,Entire home/apt,8796,3,103,2.4,134,Hyderabad,3.6
+1143,Alice,Viman Nagar,Entire home/apt,1906,5,131,3.7,326,Pune,4.3
+1144,Ravi,Jubilee Hills,Private room,8361,3,133,1.6,303,Hyderabad,4.0
+1145,Meera,Saket,Private room,8593,5,29,3.5,61,Delhi,4.9
+1146,Ravi,Koramangala,Shared room,6264,2,70,0.6,37,Bangalore,4.4
+1147,Kiran,Powai,Private room,6791,2,62,0.5,339,Mumbai,3.8
+1148,Priya,Nungambakkam,Shared room,6103,3,15,3.6,107,Chennai,4.9
+1149,Arjun,T Nagar,Private room,8403,5,190,1.0,287,Chennai,4.8
+1150,Divya,Bandra,Shared room,5676,2,65,4.9,352,Mumbai,4.3
+1151,Alice,Saket,Entire home/apt,7139,3,71,3.1,345,Delhi,3.6
+1152,Neha,Hinjewadi,Private room,7593,5,52,2.8,245,Pune,4.4
+1153,Divya,Dwarka,Private room,3858,5,124,2.9,160,Delhi,3.5
+1154,Arjun,T Nagar,Entire home/apt,7758,5,97,4.1,138,Chennai,4.5
+1155,Sanya,Indiranagar,Entire home/apt,1061,5,177,1.3,311,Bangalore,4.9
+1156,Neha,Madhapur,Entire home/apt,3542,2,93,1.6,199,Hyderabad,4.4
+1157,Alice,Lajpat Nagar,Entire home/apt,859,1,151,1.1,342,Delhi,4.9
+1158,Alice,Secunderabad,Shared room,7469,5,125,4.6,63,Hyderabad,4.3
+1159,Alice,HSR Layout,Shared room,6459,4,99,1.5,171,Bangalore,4.8
+1160,Divya,HSR Layout,Shared room,6174,3,72,3.1,108,Bangalore,3.9
+1161,Neha,Madhapur,Private room,4891,5,56,3.0,46,Hyderabad,4.5
+1162,David,MG Road,Shared room,928,5,116,3.3,237,Bangalore,4.6
+1163,Priya,Juhu,Entire home/apt,7284,4,139,4.8,88,Mumbai,4.2
+1164,Priya,Kalyani Nagar,Shared room,2180,3,169,0.6,351,Pune,4.6
+1165,Sophia,MG Road,Private room,5930,1,176,2.3,236,Bangalore,4.2
+1166,Alice,Baner,Private room,2278,3,144,2.7,58,Pune,4.2
+1167,Sophia,Karol Bagh,Shared room,1124,5,125,0.7,144,Delhi,4.2
+1168,Divya,Indiranagar,Shared room,3093,2,30,2.7,175,Bangalore,4.9
+1169,Neha,Banjara Hills,Private room,2239,4,23,4.2,130,Hyderabad,4.8
+1170,Rahul,Madhapur,Entire home/apt,3110,3,103,3.4,136,Hyderabad,4.8
+1171,Aman,Jubilee Hills,Entire home/apt,7576,3,187,4.1,254,Hyderabad,4.3
+1172,Kiran,Baner,Shared room,6214,3,38,2.5,314,Pune,3.6
+1173,Meera,Kalyani Nagar,Shared room,3846,4,162,4.3,202,Pune,4.5
+1174,John,Andheri,Private room,2663,1,49,0.8,262,Mumbai,4.5
+1175,Sanya,Kalyani Nagar,Private room,5858,4,160,1.8,232,Pune,4.7
+1176,Meera,MG Road,Shared room,2939,3,157,1.2,191,Bangalore,4.6
+1177,Sophia,Adyar,Entire home/apt,2199,1,198,3.7,57,Chennai,3.7
+1178,Alice,Colaba,Private room,2090,3,127,2.0,356,Mumbai,4.1
+1179,Priya,Juhu,Entire home/apt,6762,5,79,4.4,218,Mumbai,4.8
+1180,Arjun,Madhapur,Entire home/apt,5967,3,170,1.2,154,Hyderabad,3.6
+1181,Divya,Banjara Hills,Shared room,1422,2,188,3.8,362,Hyderabad,3.9
+1182,Divya,Baner,Private room,5456,1,117,2.1,127,Pune,4.3
+1183,Priya,Banjara Hills,Private room,3497,3,30,2.7,168,Hyderabad,3.5
+1184,Divya,Whitefield,Shared room,4206,1,191,3.8,189,Bangalore,3.8
+1185,Meera,Koramangala,Shared room,5337,4,80,4.4,142,Bangalore,4.3
+1186,Sanya,Secunderabad,Shared room,1647,5,147,2.3,159,Hyderabad,4.0
+1187,Aman,Adyar,Shared room,857,4,73,2.6,169,Chennai,4.9
+1188,John,Saket,Shared room,4873,4,62,1.6,309,Delhi,5.0
+1189,Priya,Secunderabad,Entire home/apt,5746,2,143,4.5,190,Hyderabad,3.9
+1190,Alice,Saket,Private room,6347,5,133,4.9,323,Delhi,3.9
+1191,Rahul,Hinjewadi,Private room,4148,5,13,3.2,82,Pune,4.9
+1192,Ravi,Velachery,Private room,5379,3,163,3.5,286,Chennai,3.7
+1193,Kiran,Powai,Shared room,8467,3,80,3.3,271,Mumbai,4.2
+1194,Ravi,Anna Nagar,Shared room,2103,3,131,2.2,270,Chennai,3.5
+1195,Sophia,Connaught Place,Shared room,4132,3,67,3.8,351,Delhi,4.7
+1196,Aman,Adyar,Shared room,4419,3,121,3.2,178,Chennai,4.5
+1197,Arjun,Connaught Place,Private room,7099,5,24,0.6,197,Delhi,4.7
+1198,David,Jubilee Hills,Entire home/apt,5234,3,56,3.7,198,Hyderabad,3.6
+1199,Rahul,Gachibowli,Shared room,3062,2,142,2.6,35,Hyderabad,4.0
+1200,Sophia,Powai,Shared room,6788,3,81,1.0,91,Mumbai,4.6
